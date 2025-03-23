@@ -1,7 +1,7 @@
 # Hello, I'm 9q7n, also known as Krausmann 👋
 
 ## About me ℹ️
-I am a web & engine developer.
+I am a web & engine developer, I also enjoy coding with Python.
 
 ## Get in touch 💬
 | Platform  | Link |
