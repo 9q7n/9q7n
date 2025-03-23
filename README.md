@@ -23,7 +23,7 @@ I work with Lua/Luau, Python, JavaScript, and many more languages/software.
 ![](https://komarev.com/ghpvc/?username=9q7n&color=5865F2)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=9q7n&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=9q7n&bg_color=1a1b27&border_color=1a1b27&show_icons=true&title_color=6e9cee&icon_color=6e9cee&text_color=8e97a1)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9q7n&bg_color=1a1b27&border_color=1a1b27&show_icons=true&title_color=6e9cee&text_color=8e97a1&layout=compact&card_width=446)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9q7n&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=9q7n&theme=dark&no-frame=true&no-bg=true&margin-w=4)
